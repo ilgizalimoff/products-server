@@ -10,7 +10,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 4,
@@ -46,7 +46,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 5,
@@ -58,7 +58,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 6,
@@ -70,7 +70,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 7,
@@ -82,7 +82,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 8,
@@ -94,7 +94,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 9,
@@ -106,7 +106,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 10,
@@ -118,7 +118,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 11,
@@ -130,7 +130,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 12,
@@ -142,7 +142,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 13,
@@ -154,7 +154,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 14,
@@ -166,7 +166,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 15,
@@ -178,7 +178,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 16,
@@ -190,7 +190,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "средство для мытья посуды Crystal",
-            "price": "48,76 ₸"
+            "price": "48,76"
         },
         {
             "id": 17,
@@ -202,7 +202,7 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76 ₸"
+            "price": "48,76"
         }
     ]
 }
