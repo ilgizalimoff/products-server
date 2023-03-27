@@ -1,239 +1,72 @@
-{
-    "products": [
-        {
-            "id": 1,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-            "type_care": ["уход за руками", "уход за лицом"]
-        },
-        {
-            "id": 2,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-             "type_care": ["средства для бритья"]
-        },
-        {
-            "id": 3,
-            "image_url": "./img/bimax.png",
-            "name": "BIMAX ",
-            "size_type": "г",
-            "size": "1500",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76",
-             "type_care": ["средства для бритья"]
-        },
-        {
-            "id": 4,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 5,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 6,
-            "image_url": "./img/bimax.png",
-            "name": "BIMAX ",
-            "size_type": "г",
-            "size": "1500",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 7,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 8,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 9,
-            "image_url": "./img/bimax.png",
-            "name": "BIMAX ",
-            "size_type": "г",
-            "size": "1500",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 10,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 11,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 12,
-            "image_url": "./img/bimax.png",
-            "name": "BIMAX ",
-            "size_type": "г",
-            "size": "1500",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 13,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 14,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 15,
-            "image_url": "./img/bimax.png",
-            "name": "BIMAX ",
-            "size_type": "г",
-            "size": "1500",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 16,
-            "image_url": "./img/aos.png",
-            "name": "AOS",
-            "size_type": "мл",
-            "size": "450",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": "средство для мытья посуды Crystal",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
-        },
-        {
-            "id": 17,
-            "image_url": "./img/ariel.png",
-            "name": "ARIEL",
-            "size_type": "г",
-            "size": "15X28.8",
-            "barcode": "4604049097548",
-            "producer": "Нэфис",
-            "brand": "AOS",
-            "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
-            "price": "48,76",
-                         "type_care": ["средства для бритья"]
-
+[
+    {
+        "id": 1,
+        "image_url": "/img/aos.png",
+        "name": "AOS",
+        "size_type": "мл",
+        "size": "450",
+        "barcode": "4604049097548",
+        "articul": "460404",
+        "producer": "Нэфис",
+        "brand": "AOS",
+        "description": "AOS средство для мытья посуды Crystal",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
+        "price": "48,76",
+        "type_care": [
+            "уход за руками",
+            "уход за лицом"
+        ],
+        "characteristic": {
+            "appointment": "AOS",
+            "type": "AOS",
+            "weight": "90г",
+            "volume": "90г",
+            "count": "90г"
         }
-    ]
-}
+    },
+    {
+        "id": 2,
+        "image_url": "/img/ariel.png",
+        "name": "ARIEL",
+        "size_type": "г",
+        "size": "15X28.8",
+        "barcode": "4604049097548",
+        "producer": "Нэфис",
+        "brand": "AOS",
+        "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
+        "price": "48,76",
+        "type_care": [
+            "средства для бритья"
+        ],
+        "characteristic": {
+            "appointment": "ARIEL",
+            "type": "ARIEL",
+            "weight": "90г",
+            "volume": "90г",
+            "count": "90г"
+        }
+    },
+    {
+        "id": 3,
+        "image_url": "/img/bimax.png",
+        "name": "BIMAX ",
+        "size_type": "г",
+        "size": "1500",
+        "barcode": "4604049097548",
+        "producer": "Нэфис",
+        "brand": "AOS",
+        "description": "Порошок стиральный Автомат 100 пятен COMPACT",
+        "price": "48,76",
+        "type_care": [
+            "средства для бритья"
+        ],
+        "characteristic": {
+            "appointment": "BIMAX",
+            "type": "BIMAX",
+            "weight": "190г",
+            "volume": "190г",
+            "count": "190г"
+        }
+    }
+]
