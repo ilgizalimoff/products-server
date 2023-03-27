@@ -58,6 +58,8 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
+                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
+
             "price": "48,76",
             "type_care": [
                 "средства для бритья"
