@@ -1,11 +1,11 @@
 {
     "products": [
         {
-            "id": 1,
+            "id": 10,
             "image_url": "/img/aos.png",
             "name": "AOS",
             "size_type": "мл",
-            "size": "450",
+            "size": "1000",
             "barcode": "4604049097548",
             "articul": "460404",
             "producer": "Нэфис",
