@@ -13,7 +13,16 @@
             "description": "AOS средство для мытья посуды Crystal",
             "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
             "price": "18,76",
-            "type_care":[{title: "уход за руками", number: 1}б{title: "уход за лицом", number: 2}],
+            "type_care": [
+                {
+                    "title": "уход за руками",
+                    "number": 1
+                },
+                {
+                    "title": "уход за лицом",
+                    "number": 2
+                }
+            ],
             "characteristic": {
                 "appointment": "AOS",
                 "type": "AOS",
@@ -34,7 +43,12 @@
             "description": " Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
             "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
             "price": "384,76",
-            "type_care": [{title: "средства для бритья", number: 1}],
+            "type_care": [
+                {
+                    "title": "средства для бритья",
+                    "number": 1
+                }
+            ],
             "characteristic": {
                 "appointment": "ARIEL",
                 "type": "ARIEL",
@@ -53,10 +67,14 @@
             "producer": "Нэфис",
             "brand": "AOS",
             "description": "Порошок стиральный Автомат 100 пятен COMPACT",
-                        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
-
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis",
             "price": "48,76",
-            "type_care": [{title: "средства для бритья", number: 1}],
+            "type_care": [
+                {
+                    "title": "средства для бритья",
+                    "number": 1
+                }
+            ],
             "characteristic": {
                 "appointment": "BIMAX",
                 "type": "BIMAX",
