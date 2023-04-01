@@ -56,7 +56,7 @@
         },
         {
             "id": 4,
-            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaHuA3eFMclqrHZtpkPOPYoJATzVEqmq8git8P1xE_jA&s",
+            "image_url": "/img/aplmolive.jpg",
             "name": "Palmolive",
             "size_type": "мл",
             "size": "1000",
@@ -74,7 +74,7 @@
         },
         {
             "id": 5,
-            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpICAF7JSwddutAza1ccdDyhjFvxfQr7koewTdSoxsA&s",
+            "image_url": "/img/nivea.jpg",
             "name": "Nivea",
             "size_type": "мл",
             "size": "200",
@@ -92,7 +92,7 @@
         },
         {
             "id": 6,
-            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGx_AUdiMVFrg891wcIy_mTX2BIUy2f76wPdWTFYhJgg&s",
+            "image_url": "/img/podarok.jpg",
             "name": "AMX ",
             "size_type": "г",
             "size": "1500",
@@ -128,7 +128,7 @@
         },
         {
             "id": 8,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hef/h62/11696744497182/1176302-1-800Wx800H.jpg",
+            "image_url": "/img/every.png",
             "name": "Attache",
             "size_type": "г",
             "size": "140x200",
