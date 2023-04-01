@@ -321,24 +321,6 @@
                     "number": 1
                 }
             ]
-        },
-        {
-            "id": 18,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/h27/h23/11452947464222/1645728-1-800Wx800H.jpg",
-            "name": "Dove ",
-            "size_type": "г",
-            "size": "1780",
-            "barcode": "4604049097548",
-            "producer": "Dove",
-            "brand": "Dove",
-            "description": "Подарочный набор женский Dove Объем и восстановление",
-            "price": "449",
-            "type_care": [
-                {
-                    "title": "Подарочные наборы",
-                    "number": 1
-                }
-            ]
         }
     ]
 }
