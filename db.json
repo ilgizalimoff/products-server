@@ -215,42 +215,6 @@
                     "number": 1
                 }
             ]
-        },
-        {
-            "id": 13,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/h20/h0f/10547134693406/559098-1-800Wx800H.jpg",
-            "name": "Rexona ",
-            "size_type": "мл",
-            "size": "150",
-            "barcode": "460404",
-            "producer": "Rexona ",
-            "brand": "Rexona ",
-            "description": "Дезодорант-антиперспирант Rexona Men Невидимый",
-            "price": "399",
-            "type_care": [
-                {
-                    "title": "Уход за телом",
-                    "number": 1
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hf9/hc7/11508114096158/1679927-1-800Wx800H.jpg",
-            "name": "R.O.C.S",
-            "size_type": "мл",
-            "size": "400",
-            "barcode": "460404",
-            "producer": "R.O.C.S",
-            "brand": "R.O.C.S",
-            "description": "Ополаскиватель для полости рта R.O.C.S. Активный кальций ",
-            "price": "465",
-            "type_care": [
-                {
-                    "title": "Гигиена полости рта",
-                    "number": 1
-                }
-            ]
         }
     ]
 }
