@@ -179,42 +179,6 @@
                     "number": 1
                 }
             ]
-        },
-        {
-            "id": 11,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/h67/hab/11436814794782/1625621-1-800Wx800H.jpg",
-            "name": "Умка",
-            "size_type": "г",
-            "size": "3",
-            "barcode": "460404",
-            "producer": "Умка",
-            "brand": "Умка",
-            "description": "Помада гигиеническая Умка Нежная забота с первых дней",
-            "price": "140",
-            "type_care": [
-                {
-                    "title": "Уход за лицом",
-                    "number": 1
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/h54/h41/11543270195230/559400-1-800Wx800H.jpg",
-            "name": "Luscan",
-            "size_type": "г",
-            "size": "150",
-            "barcode": "460404",
-            "producer": "Luscan",
-            "brand": "Luscan",
-            "description": "Влажные салфетки антибактериальные Luscan 15 штук в упаковке",
-            "price": "28,50",
-            "type_care": [
-                {
-                    "title": "Гигиеническая продукция",
-                    "number": 1
-                }
-            ]
         }
     ]
 }
