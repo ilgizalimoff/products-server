@@ -287,24 +287,6 @@
                     "number": 2
                 }
             ]
-        },
-        {
-            "id": 17,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/ha1/hec/10146397290526/628645-1-800Wx800H.jpg",
-            "name": "Q-Matic",
-            "size_type": "г",
-            "size": "60x60",
-            "barcode": "460404",
-            "producer": "Q-Matic",
-            "brand": "Q-Matic",
-            "description": "Термобилеты с перфорацией Q-Matic ",
-            "price": "17 092 ",
-            "type_care": [
-                {
-                    "title": "Бумажная продукция",
-                    "number": 1
-                }
-            ]
         }
     ]
 }
