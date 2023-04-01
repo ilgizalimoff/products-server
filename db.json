@@ -143,42 +143,6 @@
                     "number": 1
                 }
             ]
-        },
-        {
-            "id": 9,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hb5/h8c/10350598324254/1005023-1-800Wx800H.jpg",
-            "name": "Диадем",
-            "size_type": "мл",
-            "size": "250",
-            "barcode": "460404",
-            "producer": "Диадем",
-            "brand": "Диадем",
-            "description": "Крем для рук регенерирующий Диадем",
-            "price": "388",
-            "type_care": [
-                {
-                    "title": "Средства для загара",
-                    "number": 1
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/h92/hd4/11505016406046/1675094-1-800Wx800H.jpg",
-            "name": "Shalet",
-            "size_type": "мл",
-            "size": "75",
-            "barcode": "460404",
-            "producer": "Shalet",
-            "brand": "Shalet",
-            "description": "Крем для ног Shalet Лаванда",
-            "price": "70",
-            "type_care": [
-                {
-                    "title": "Уход за ногами",
-                    "number": 1
-                }
-            ]
         }
     ]
 }
