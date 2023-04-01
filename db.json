@@ -69,10 +69,6 @@
                 {
                     "title": "Уход за волосами",
                     "number": 1
-                },
-                {
-                    "title": "Подарочные наборы",
-                    "number": 2
                 }
             ]
         },
@@ -124,10 +120,6 @@
             "description": "Крем для рук Aura Beauty Your Richness обогащающий",
             "price": "91",
             "type_care": [
-                {
-                    "title": "Гигиеническая продукция",
-                    "number": 1
-                },
                 {
                     "title": "Уход за телом",
                     "number": 2
@@ -185,10 +177,6 @@
                 {
                     "title": "Уход за ногами",
                     "number": 1
-                },
-                {
-                    "title": "Гигиеническая продукция",
-                    "number": 2
                 }
             ]
         },
@@ -294,10 +282,6 @@
             "description": "Пудра для обесцвечивания волос Estel Essex Princess",
             "price": "1270",
             "type_care": [
-                {
-                    "title": "Гигиеническая продукция",
-                    "number": 1
-                },
                 {
                     "title": "Уход за волосами",
                     "number": 2
