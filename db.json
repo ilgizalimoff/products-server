@@ -56,7 +56,7 @@
         },
         {
             "id": 4,
-            "image_url": "/img/aplmolive.jpg",
+            "image_url": "/img/palmolive.jpg",
             "name": "Palmolive",
             "size_type": "мл",
             "size": "1000",
@@ -110,7 +110,7 @@
         },
         {
             "id": 7,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hbc/hcb/11495683293214/1174010-1-200Wx200H.jpg",
+            "image_url": "https://media.komus.ru/medias/sys_master/root/hfc/h96/11495683424286/1174010-1-800Wx800H.jpg",
             "name": "Aura",
             "size_type": "мл",
             "size": "75",
