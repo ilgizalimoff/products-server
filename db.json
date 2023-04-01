@@ -251,42 +251,6 @@
                     "number": 1
                 }
             ]
-        },
-        {
-            "id": 15,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hca/he9/10469293228062/362152-1-800Wx800H.jpg",
-            "name": "Matrix ",
-            "size_type": "г",
-            "size": "7000",
-            "barcode": "460404",
-            "producer": "Matrix",
-            "brand": "Matrix",
-            "description": "Набор инструмента столярно-слесарный Matrix 22 предмета",
-            "price": "1009",
-            "type_care": [
-                {
-                    "title": "Подарочные наборы",
-                    "number": 1
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "image_url": "https://media.komus.ru/medias/sys_master/root/hb8/h99/11435088379934/1638602-1-800Wx800H.jpg",
-            "name": "Estel",
-            "size_type": "г",
-            "size": "750",
-            "barcode": "460404",
-            "producer": "Estel",
-            "brand": "Estel",
-            "description": "Пудра для обесцвечивания волос Estel Essex Princess",
-            "price": "1270",
-            "type_care": [
-                {
-                    "title": "Уход за волосами",
-                    "number": 2
-                }
-            ]
         }
     ]
 }
